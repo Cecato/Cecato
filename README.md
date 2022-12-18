@@ -2,9 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cecato&label=Profile%20views&color=0e75b6&style=flat" alt="cecato" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cecato&show_icons=true&locale=en&layout=compact" alt="cecato" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cecato&show_icons=true&locale=en&theme=dracula" alt="cecato" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cecato&show_icons=true&locale=en" alt="cecato" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cecato&show_icons=true&locale=en&theme=dracula" alt="cecato" /></p>
+
+<br>
+<br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,4 +21,4 @@
 <br>
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cecato" alt="cecato" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=cecato&theme=dracula" alt="cecato" /></a> </p>
