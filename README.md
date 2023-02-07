@@ -115,4 +115,4 @@
 
 </p>
 
-<img src="https://media.tenor.com/7lITyFVGNA8AAAAC/tibia.gif" alt="Ferumbras" width="100px" height="auto" align="right"/>
+<img src="https://s3.gifyu.com/images/tibia-unscreen.gif" alt="Ferumbras" width="100px" height="auto" align="right"/>
