@@ -1,16 +1,19 @@
 <div>
   <img src="https://camo.githubusercontent.com/a0d58634789b846466557b4c210c1638560a4bd4457161899e026ce7345bb288/687474703a2f2f32352e6d656469612e74756d626c722e636f6d2f63393961353739646233616530666331363462663463636131343838383564332f74756d626c725f6d6a6776386b45754d67317338376e37396f315f3430302e676966" alt="pikachu" width="100px" height="auto"/>
   <img src="https://i.gifer.com/origin/9d/9d036900febef8da5657c81a8984f2e5_w200.gif" alt="Naruto" width="100px" height="auto" align="right"/>
+  
+</div>
+<div>
   <h1 align="center">Hi, I'm Gustavo Cecato</h1>
 </div>
-
 <div align="justify">
   <h3>  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Highly proactive and motivated software developer with a strong work ethic and a passion for programming. 
     Constantly seeking to expand my knowledge and stay current with the latest technologies and industry trends. Focused on delivering high-quality 
     and efficient solutions to complex problems, I have a proven track record of successfully completing multiple projects in a timely and effective 
-    manner. Whether working independently or as part of a team, I am always striving to exceed expectations and provide exceptional results.</h3>
-  <hr>
+    manner. Whether working independently or as part of a team, I am always striving to exceed expectations and provide exceptional results.
+  </h3>
+  
 </div>
 <div>
  <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=cecato&show_icons=true&locale=en&theme=dracula" alt="cecato" /></p>
