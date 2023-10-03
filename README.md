@@ -1,23 +1,16 @@
 
 <div>
-  <h1 align="center">Hi, I'm Gustavo Cecato</h1>
+  <h1 align="center">Gustavo Cecato</h1>
 </div>
-<div align="justify">
-  <h3>  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Highly proactive and motivated software developer with a strong work ethic and a passion for programming. 
-    Constantly seeking to expand my knowledge and stay current with the latest technologies and industry trends. Focused on delivering high-quality 
-    and efficient solutions to complex problems, I have a proven track record of successfully completing multiple projects in a timely and effective 
-    manner. Whether working independently or as part of a team, I am always striving to exceed expectations and provide exceptional results.
-  </h3>
-  
-</div>
+
 <div>
  <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=cecato&show_icons=true&locale=en&theme=dracula" alt="cecato" /></p>
   
 
   
-  <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cecato&show_icons=true&locale=en&theme=dracula" alt="cecato" /></p>
-  <br><br><br>
+  
+  <br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br>
   <hr/>
 
 </div>
