@@ -1,8 +1,4 @@
-<div>
-  <img src="https://camo.githubusercontent.com/a0d58634789b846466557b4c210c1638560a4bd4457161899e026ce7345bb288/687474703a2f2f32352e6d656469612e74756d626c722e636f6d2f63393961353739646233616530666331363462663463636131343838383564332f74756d626c725f6d6a6776386b45754d67317338376e37396f315f3430302e676966" alt="pikachu" width="100px" height="auto"/>
-  <img src="https://i.gifer.com/origin/9d/9d036900febef8da5657c81a8984f2e5_w200.gif" alt="Naruto" width="100px" height="auto" align="right"/>
-  
-</div>
+
 <div>
   <h1 align="center">Hi, I'm Gustavo Cecato</h1>
 </div>
