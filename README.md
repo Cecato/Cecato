@@ -2,19 +2,6 @@
 <div>
   <h1 align="center">Gustavo Cecato</h1>
 </div>
-
-<div>
- <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=cecato&show_icons=true&locale=en&theme=dracula" alt="cecato" /></p>
-  
-
-  
-  
-  <br><br><br><br><br><br><br>
-  <br><br><br><br><br><br><br>
-  <hr/>
-
-</div>
-
 <div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=cecato&label=Profile%20views&color=0e75b6&style=flat" alt="cecato" /> </p>
 </div>
