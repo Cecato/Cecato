@@ -53,7 +53,3 @@
 </div>
 
 <br clear="both">
-
-<div align="center">
-  <img height="152" src=""  />
-</div>
