@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm Dev and I love Caqui</h2>
+
 
 <br clear="both">
 
