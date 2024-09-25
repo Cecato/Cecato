@@ -45,7 +45,9 @@
   <a href="https://www.hackerrank.com/profile/cecato" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-  
+  <a href="https://judge.beecrowd.com/pt/profile/432392" target="_blank">
+    <img src="https://hermes.dio.me/articles/cover/6648c9da-4a0a-4f72-9bea-99a45110b117.png" height="35" alt="hackerrank logo"  />
+  </a>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=cecato&label=Profile%20views&color=0e75b6&style=flat" alt="cecato" /> </p>
 </div>
 
