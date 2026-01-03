@@ -2,12 +2,6 @@
 
 <br clear="both">
 
-<div align="left">
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=cecato&show_icons=true&locale=en&layout=compact&theme=dracula" alt="cecato" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cecato&show_icons=true&locale=en&layout=compact&theme=dracula" alt="cecato" />
-  </p>
-<div>
   
 <br clear="both"><br clear="both">
 
